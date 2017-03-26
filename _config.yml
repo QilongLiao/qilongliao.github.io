@@ -7,14 +7,12 @@ description: 好好学习，努力工作，快乐生活
 # User settings
 username: 廖启隆
 user_description: 好奇的程序员，发现世界的乐趣！
-user_title: 
+user_title: Software Developer
 email: qilongliao@qq.com
-twitter_username: 
 github_username:  qilongliao
-gplus_username:  
 
 # Google-analytics
 google-analytics:
   id: ""
-
+highlighter:  rouge
 exclude: ['package.json', 'src' , 'node_modules']
