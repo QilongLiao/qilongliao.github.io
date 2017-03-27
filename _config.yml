@@ -13,6 +13,6 @@ github_username:  qilongliao
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-96247451-1"
 highlighter:  rouge
 exclude: ['package.json', 'src' , 'node_modules']
