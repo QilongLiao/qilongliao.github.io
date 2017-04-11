@@ -3,7 +3,10 @@ title: 大廖
 description: 好好学习，努力工作，快乐生活
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+kramdown:
+  input: GFM
 
+  
 # User settings
 username: 廖启隆
 user_description: 好奇的程序员，发现世界的乐趣！
